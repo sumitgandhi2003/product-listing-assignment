@@ -1,5 +1,4 @@
-import axios from "axios";
-import React, { use, useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import { Button, Input, Select } from "../Libs/index.js";
 import { Moon, Sun, Heart, User, Filter } from "lucide-react";
 import { useTheme } from "../Context/themeContext.jsx";

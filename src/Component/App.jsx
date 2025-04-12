@@ -1,7 +1,7 @@
 import "./App.css";
 import { createBrowserRouter, Outlet } from "react-router-dom";
 
-import ProductContainer from "./productContainer";
+import ProductContainer from "./ProductContainer";
 import ProductDetailPage from "./ProductDetailPage";
 import Navbar from "./Navbar";
 
